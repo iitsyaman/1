@@ -15,7 +15,7 @@ from aiogram.enums import ParseMode
 from aiogram.types import URLInputFile, InlineKeyboardMarkup, InlineKeyboardButton, InputFile, FSInputFile, CallbackQuery
 
 
-API_TOKEN = '...'  # هنا تضع الرمز السري الخاص بك. يمكنك معرفته من خلال @BotFather
+API_TOKEN = '7580697929:AAGrdJWZnw85EFRauSPJnpHbZ1p--zvU99Q'  # هنا تضع الرمز السري الخاص بك. يمكنك معرفته من خلال @BotFather
 JSON_FILE = 'photos.json'
 logging.basicConfig(level = logging.INFO)
 bot = Bot(token=API_TOKEN)
